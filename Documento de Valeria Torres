@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RefugioSeresSinVoz</title
+
+</head>
+<body>
+  <header
+     <h1>RefugioSeresSinVoz</h>
+    <nav> 
+        <ul>
+            <li>Acerca de nosotros</li>
+            <li>Adopta a un Peludo</li>
+            <li>Donaciones</li>
+            <il>Voluntariado</il>
+            <il>Contacto</il>
+        </ul>
+    </nav>
+    </header>
+</body>
+<h2>Acerca de nosotros</h>
+<img src="img/photo-1563460716037-460a3ad24ba9.avif"
+
+<article>
+    <p>"SeresSinVoz"es una organizacion compuesta por voluntariados en la isla de margarita,que buscan encontrarle un hogar a animales que han sido
+        abandonados o se encuentran en situacion de calle.Nuestro proposito es lograr que estos animalitos puedan vivir una vida tranquila,llena de amor 
+        y alegria.Tambien realizamos campañas de esterilizacion y vacunacion con las donaciones que recibimos.Tu tambien puedes apoyarnos en esta noble
+        causa</p>
+    </p>
+</article>
+<article>
+    <img src=""
+</article>
+
+<section>
+
+</section>
+<h2>Adopta un peludo</h2>
+<img src="img/photo-1554830072-52d78d0d4c18.avif"
+<article>
+    <h3>Adoptar a un animal es una oportunidad para ti y una segunda oportunidad para el.Una oportunidad para ti porque recibiras todo el amor incondicional
+        que solo una mascota te puede ofrecer y una segunda oportunidad para el porque encontrara cariño luego de haber sufrido tantas experiencias 
+        aterradoras.Es normal que al comienzo muchos peluditos se sientan deconfiados debido al maltrato que han recibido,pero con amor pronto se ira 
+        recuperando su confiaza y tendras a un amigo fiel por muchos años.
+    </h3>
+</article>
+<section>
+
+</section>
+<h3>Donaciones
+<img src="img/photo-1594004844563-536a03a6e532.avif
+"
+<article>
+    <p>Cuando donas estas danto un aporte a los gastos medicos y para el alimento de los cientos de animales que rescatamos en las calles.Alguna de las 
+        formas en las que puedes donar es a traves de medicinas para mascotas,con proteina y alimentos en buen estado.
+    </p>
+
+</article>
+<article>
+<h4>Voluntariado</h4>
+<p>Nuestro grupo de rescate esta conformado por veterinarios y por vecinos de la isla de Margarita.
+    Somos una organizacion independiente y sin fines de lucro.
+</p>
+</article>
+<section>
+
+</section>
+<h3>Contacto</h3>
+<p>
+    <b>Estamos ubicados en la Isla de Margarita,Venezuela.Puedes contactarnos por Intagram como @SeresSinVozMgta
+    </b>
+    </p>
+
+<footer>
+    <p>Disigned by Valeria Torres"</p> 
+<p> Creado para "@programadesdetucasa"</p></footer>
